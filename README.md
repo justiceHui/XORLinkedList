@@ -5,6 +5,7 @@ std::list
 <hr>
 
 <pre>C++ Linked List template that uses XOR operations to reduce memory usage.</pre>
+blog post -> http://jhnah917.tistory.com/42
 
 Constructors
 ------
