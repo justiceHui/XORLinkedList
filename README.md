@@ -1,7 +1,6 @@
 list (XOR Linked List)
 ======
 class template <br>
-std::list
 <hr>
 
 <pre>C++ Linked List template that uses XOR operations to reduce memory usage.</pre>
